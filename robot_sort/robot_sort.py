@@ -1,3 +1,5 @@
+# python3 robot_sort/test_robot.py -v
+
 class SortingRobot:
     def __init__(self, l):
         """

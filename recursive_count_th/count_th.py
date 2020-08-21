@@ -1,3 +1,5 @@
+# python3 recursive_count_th/test_count_th.py -v
+
 '''
 Your function should take in a single parameter (a string `word`)
 Your function should return a count of how many occurences of ***"th"*** occur within `word`. Case matters.
